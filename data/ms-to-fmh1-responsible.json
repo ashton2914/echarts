@@ -6,13 +6,13 @@
         "symbolSize": 19.12381,
         "x": -266.82776,
         "y": 299.6904,
-        "value": 28.685715,
+        "value": 28,
         "category": 0
       },
       {
         "id": "1",
         "name": "Belinda Y.",
-        "symbolSize": 2.6666666666666665,
+        "symbolSize": 20,
         "x": -418.08344,
         "y": 446.8853,
         "value": 4,
@@ -21,7 +21,7 @@
       {
         "id": "2",
         "name": "Kevin X.",
-        "symbolSize": 2,
+        "symbolSize": 25,
         "x": -212.76357,
         "y": 245.29176,
         "value": 9.485714,
@@ -30,7 +30,7 @@
       {
         "id": "3",
         "name": "Lexi.S",
-        "symbolSize": 4,
+        "symbolSize": 36,
         "x": -212.76357,
         "y": 245.29176,
         "value": 9.485714,
@@ -39,7 +39,7 @@
       {
         "id": "a",
         "name": "Pineview",
-        "symbolSize": 2,
+        "symbolSize": 20,
         "x": -212.76357,
         "y": 245.29176,
         "value": 9.485714,
@@ -48,7 +48,7 @@
       {
         "id": "b",
         "name": "Fostoria",
-        "symbolSize": 2,
+        "symbolSize": 19,
         "x": -212.76357,
         "y": 245.29176,
         "value": 9.485714,
@@ -57,7 +57,7 @@
       {
         "id": "c",
         "name": "Oak Creel",
-        "symbolSize": 2,
+        "symbolSize": 36,
         "x": -212.76357,
         "y": 245.29176,
         "value": 9.485714,
