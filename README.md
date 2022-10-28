@@ -1,7 +1,5 @@
 # ashton's echarts discovery
 
-- - -
-
 
 ## in process
 
