@@ -36,11 +36,10 @@
       useDirtyRect: false
     });
     var app = {};
-    var ROOT_PATH = 'https://echarts.apache.org/examples';
     var option;
-
+    
     myChart.showLoading();
-$.getJSON(ROOT_PATH + '/data/asset/data/les-miserables.json', function (graph) {
+$.getJSON('https://raw.githubusercontent.com/Zhicheng2914/echarts/main/data/ms-to-fmh1-responsible.json', function (graph) {
   myChart.hideLoading();
   graph.nodes.forEach(function (node) {
     node.label = {
