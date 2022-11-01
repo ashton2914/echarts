@@ -1,78 +1,178 @@
 {
     "nodes": [
-      {
-        "id": "0",
-        "name": "Ashton H.",
-        "symbolSize": 19.12381,
-        "x": -266.82776,
-        "y": 299.6904,
-        "value": 28,
-        "category": 0
-      },
-      {
-        "id": "1",
-        "name": "Belinda Y.",
-        "symbolSize": 36,
-        "value": 20,
-        "category": 0
-      },
-      {
-        "id": "2",
-        "name": "Kevin X.",
-        "symbolSize": 25,
-        "x": -212.76357,
-        "y": 245.29176,
-        "value": 25,
-        "category": 0
-      },
-      {
-        "id": "3",
-        "name": "Lexi.S",
-        "symbolSize": 36,
-        "x": -212.76357,
-        "y": 245.29176,
-        "value": 36,
-        "category": 0
-      },
-      {
-        "id": "a",
-        "name": "Pineview",
-        "symbolSize": 20,
-        "x": -212.76357,
-        "y": 245.29176,
-        "value": 20,
-        "category": 1
-      },
-      {
-        "id": "b",
-        "name": "Fostoria",
-        "symbolSize": 19,
-        "x": -212.76357,
-        "y": 245.29176,
-        "value": 19,
-        "category": 1
-      },
-      {
-        "id": "c",
-        "name": "Oak Creel",
-        "symbolSize": 36,
-        "x": -212.76357,
-        "y": 245.29176,
-        "value": 36,
-        "category": 1
-      }
+      {"id":"1","name":"胡祥","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"2","name":"曹小勇","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"3","name":"許凱","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"4","name":"李偉峰","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"5","name":"王志國","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"6","name":"宋彥鋒","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"7","name":"裴曉偉","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"8","name":"余敏","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"9","name":"李治剛","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"10","name":"鐘年","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"11","name":"彭瑩琳","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"12","name":"黃治鋮","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"13","name":"李啟斌","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"14","name":"祁夢嬌","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"15","name":"劉金濤","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"16","name":"汪莎莎","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"17","name":"叢玉影","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"18","name":"翟亞坤","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"19","name":"陳宇鵬","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"20","name":"詹方明","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"21","name":"鄧風平","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"22","name":"肖宏澤","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"23","name":"倪小青","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"24","name":"雷軍浩","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"25","name":"魏明明","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"26","name":"盧月清","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"27","name":"戶大亮","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"28","name":"徐亮亮","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"29","name":"黃件平","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"30","name":"馬龍","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"31","name":"王梅莉","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"32","name":"汪潮龍","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"33","name":"陳四峰","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"34","name":"肖成燦","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"35","name":"邵志勝","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":36,"name":"徐偉","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"37","name":"桂光杰","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"38","name":"張雲成","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"39","name":"牛瑩","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"40","name":"常響龍","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"41","name":"楊倩慧","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"42","name":"湯玉剛","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"43","name":"鄒愛琴","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"44","name":"郎文婕","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"45","name":"陳奕旭","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"46","name":"李露","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"47","name":"李亞玲","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"48","name":"岳川茸","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"49","name":"朱昕燕","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"50","name":"楊姣林","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"51","name":"黎錫銘","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"52","name":"黃磊","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"53","name":"金杰洪","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"54","name":"陳勇","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"55","name":"劉羽","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"56","name":"吳曉強","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"57","name":"黃智程","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"58","name":"劉茹鳳","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"59","name":"琚海雁","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"60","name":"柯玉萍","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"61","name":"高新桐","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"62","name":"秦秀梅","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"63","name":"炊義寧","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"64","name":"陳巍","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"65","name":"胡勝","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"66","name":"仇彩紅","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"67","name":"楊發媛","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"68","name":"王瑞鴿","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"69","name":"吳漢冰","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"70","name":"肖文廣","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"71","name":"趙明明","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"72","name":"劉艷玲","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"73","name":"羅凱雯","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"74","name":"史冰清","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"75","name":"邢凱森","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"76","name":"張蕾","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"77","name":"鄧湘粵","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"78","name":"武?","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"79","name":"孫新亮","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"80","name":"秦子涵","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      ,
+      {"id":"81","name":"張嘯","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
     ],
     "links": [
       {
-        "source": "0",
+        "source": 0,
         "target": "a"
       },
       {
-        "source": "0",
+        "source": 0,
         "target": "b"
       },
       {
-        "source": "0",
+        "source": 0,
         "target": "c"
       },
       {
