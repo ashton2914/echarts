@@ -80,7 +80,20 @@
       {"id":"78","name":"武?","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
       {"id":"79","name":"孫新亮","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
       {"id":"80","name":"秦子涵","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
-      {"id":"81","name":"張嘯","symbolSize":36,"x":-200,"y":200,"value":36,"category":0}
+      {"id":"81","name":"張嘯","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
+      {"id":"a","name":"Pineview","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"b","name":"Oak Creek","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"c","name":"Java","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"d","name":"Port","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"e","name":"Brementon","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"f","name":"Jupyter","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"g","name":"Rosario","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"h","name":"Outing","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"i","name":"Outing-C","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"g","name":"Hunter","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"k","name":"Monica","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"l","name":"Fostoria","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
+      {"id":"m","name":"Beacon","symbolSize":36,"x":-200,"y":200,"value":36,"category":1}
     ],
     "links": [
       {
