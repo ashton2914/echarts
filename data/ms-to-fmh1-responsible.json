@@ -1,5 +1,6 @@
 {
     "nodes": [
+      {"id":"0","name":"KH Lim","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
       {"id":"1","name":"胡祥","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
       {"id":"2","name":"曹小勇","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
       {"id":"3","name":"許凱","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
