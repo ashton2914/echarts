@@ -64,64 +64,24 @@
       {"id":"61","name":"高新桐","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
       {"id":"62","name":"秦秀梅","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
       {"id":"63","name":"炊義寧","symbolSize":36,"x":-200,"y":200,"value":36,"category":0},
-      {"id":"a","name":"Pineview","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"b","name":"Oak Creek","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"c","name":"Java","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"d","name":"Port","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"e","name":"Brementon","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"f","name":"Jupyter","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"g","name":"Rosario","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"h","name":"Outing","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"i","name":"Outing-C","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"g","name":"Hunter","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"k","name":"Monica","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"l","name":"Fostoria","symbolSize":36,"x":-200,"y":200,"value":36,"category":1},
-      {"id":"m","name":"Beacon","symbolSize":36,"x":-200,"y":200,"value":36,"category":1}
+      {"id":"64","name":"Pineview","symbolSize":36,"x":-200,"y":200,"value":36,"category":1}
     ],
     "links": [
       {
         "source": "0",
-        "target": "a"
-      },
-      {
-        "source": "0",
-        "target": "b"
-      },
-      {
-        "source": "0",
-        "target": "c"
+        "target": "64"
       },
       {
         "source": "1",
-        "target": "a"
-      },
-      {
-        "source": "1",
-        "target": "b"
-      },
-      {
-        "source": "1",
-        "target": "c"
+        "target": "64"
       },
       {
         "source": "2",
-        "target": "a"
-      },
-      {
-        "source": "2",
-        "target": "b"
-      },
-      {
-        "source": "2",
-        "target": "c"
+        "target": "64"
       },
       {
         "source": "3",
-        "target": "a"
-      },
-      {
-        "source": "3",
-        "target": "b"
+        "target": "64"
       }
     ],
     "categories": [
